@@ -14,4 +14,4 @@ Script model1:
 Script model2:
 - Add BatchNormalisation after the last VGG16 layer
 
-![alt text](https://github.com/nakmuayFarang/Denoiser-Zoom-Data/blob/master/Test2/comparisonBetweenModel2.png)
+![alt text](https://github.com/nakmuaycoder/Denoiser-Zoom-Data/blob/master/Test2/comparisonBetweenModel2.png)
